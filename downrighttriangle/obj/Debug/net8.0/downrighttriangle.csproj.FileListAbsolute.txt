@@ -1,0 +1,14 @@
+C:\Users\ms\source\repos\downrighttriangle\downrighttriangle\bin\Debug\net8.0\downrighttriangle.exe
+C:\Users\ms\source\repos\downrighttriangle\downrighttriangle\bin\Debug\net8.0\downrighttriangle.deps.json
+C:\Users\ms\source\repos\downrighttriangle\downrighttriangle\bin\Debug\net8.0\downrighttriangle.runtimeconfig.json
+C:\Users\ms\source\repos\downrighttriangle\downrighttriangle\bin\Debug\net8.0\downrighttriangle.dll
+C:\Users\ms\source\repos\downrighttriangle\downrighttriangle\bin\Debug\net8.0\downrighttriangle.pdb
+C:\Users\ms\source\repos\downrighttriangle\downrighttriangle\obj\Debug\net8.0\downrighttriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ms\source\repos\downrighttriangle\downrighttriangle\obj\Debug\net8.0\downrighttriangle.AssemblyInfoInputs.cache
+C:\Users\ms\source\repos\downrighttriangle\downrighttriangle\obj\Debug\net8.0\downrighttriangle.AssemblyInfo.cs
+C:\Users\ms\source\repos\downrighttriangle\downrighttriangle\obj\Debug\net8.0\downrighttriangle.csproj.CoreCompileInputs.cache
+C:\Users\ms\source\repos\downrighttriangle\downrighttriangle\obj\Debug\net8.0\downrighttriangle.dll
+C:\Users\ms\source\repos\downrighttriangle\downrighttriangle\obj\Debug\net8.0\refint\downrighttriangle.dll
+C:\Users\ms\source\repos\downrighttriangle\downrighttriangle\obj\Debug\net8.0\downrighttriangle.pdb
+C:\Users\ms\source\repos\downrighttriangle\downrighttriangle\obj\Debug\net8.0\downrighttriangle.genruntimeconfig.cache
+C:\Users\ms\source\repos\downrighttriangle\downrighttriangle\obj\Debug\net8.0\ref\downrighttriangle.dll
